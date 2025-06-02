@@ -1,5 +1,5 @@
 //Problem link: https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/monk-and-the-islands/
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> 
 using namespace std;
 #define pb push_back
 #define mem(a,b) memset(a, b, sizeof(a) )
